@@ -1,6 +1,5 @@
  support ticketing 
-
-Project is partly generated with [QuickAdminPanel](https://2019.quickadminpanel.com)
+ 
 
 ---
 
